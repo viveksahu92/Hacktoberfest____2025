@@ -1,8 +1,8 @@
 # My Open Source Journey ✨
 
-👤 **Name:** Jane Doe  
+👤 **Name:** Soham Das
 📅 **First Contribution:** October 2023  
-🔧 **Tools/Tech Used:** Python, GitHub, Markdown
+🔧 **Tools/Tech Used:** Python, GitHub, React, Javascript , Markdown
 
 🌟 **My Experience:**
 
