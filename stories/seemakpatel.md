@@ -12,4 +12,4 @@ My first PR was on a python project where I fixed a compare operator bug – and
 
 📌 **Advice for Beginners:**
 
-Don’t wait to be perfect. Start small – fix a typo, improve docs, or contribute to a simple feature. Every contribution helps you learn and grow and glow!! 🚀
+Don’t wait to be perfect. Start small – fix a typo, improve docs, or contribute to a simple feature. Every contribution helps you learn and grow and glow!! ✨
