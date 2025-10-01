@@ -12,4 +12,4 @@ My first PR was on a React project where I fixed a small UI bug – and it got m
 
 📌 **Advice for Beginners:**
 
-Don’t wait to be perfect. Start small – fix a typo, improve docs, or contribute to a simple feature. Every contribution helps you learn and grow! 🚀
+Don’t wait to be perfect. Start small – fix a typo, improve docs, or contribute to a simple feature. Every contribution helps you learn and grow!
