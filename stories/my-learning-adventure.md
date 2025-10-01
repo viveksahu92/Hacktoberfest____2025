@@ -1,7 +1,7 @@
 # My Learning Adventure 🚀
 
 👤 **Name:** [Ankit Kumar Yadav]  
-📅 **First Contribution:** 20 august 2025  
+📅 **First Contribution:** August 2025  
 🔧 **Tools/Tech Used:** VS Code, Git, Markdown, Github
 
 🌟 **My Experience:**  
