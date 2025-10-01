@@ -1,8 +1,8 @@
 # My Learning Adventure 🚀
 
-👤 **Name:** [Your Name]  
-📅 **First Step:** October 2025  
-🔧 **Tools/Tech Used:** VS Code, Git, Markdown  
+👤 **Name:** [Ankit Kumar Yadav]  
+📅 **First Contribution:** 20 august 2025  
+🔧 **Tools/Tech Used:** VS Code, Git, Markdown, Github
 
 🌟 **My Experience:**  
 I began my learning journey with curiosity and a bit of uncertainty. Exploring new tools and reading stories from others inspired me to try things myself. My first project was chromo dino-game clone and sharing them with friends, which helped me build confidence.
