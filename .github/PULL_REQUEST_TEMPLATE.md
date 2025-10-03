@@ -1,11 +1,11 @@
-# 📝 Pull Request Template
+# ✨ Open Source Learning Stories – Pull Request Template
 
 Thank you for contributing to **Open Source Learning Stories**! 🎉
 Please ensure your PR follows the guidelines below to help us review it quickly.
 
 ---
 
-## ✅ Checklist
+## ✅ Author Checklist
 
 * [ ] I have read the [CONTRIBUTING.md](../CONTRIBUTING.md) guide.
 * [ ] My story is added inside the **`stories/`** folder.
