@@ -1,8 +1,8 @@
 # My Open Source Journey ✨
-    ```
-    👤 **Name:** John Doe  
-    📅 **First Contribution:** October 2023  
-    🔧 **Tools/Tech Used:** Python, GitHub, Markdown, C++, JS
+
+👤 **Name:** SohamDas
+📅 **First Contribution:** October 2023  
+🔧 **Tools/Tech Used:** Python, GitHub, react, nodejs, Markdown
 
 🌟 **My Experience:**
 
@@ -12,4 +12,4 @@ My first PR was on a React project where I fixed a small UI bug – and it got m
 
 📌 **Advice for Beginners:**
 
-Don’t wait to be perfect. Start small – fix a typo, improve docs, or contribute to a simple feature. Every contribution helps you learn and grow! 🚀
+Don’t wait to be perfect. Start small – fix a typo, improve docs, or contribute to a simple feature. Every contribution helps you learn and grow.

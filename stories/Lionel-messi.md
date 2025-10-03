@@ -1,8 +1,8 @@
 # My Open Source Journey ✨
-    ```
-    👤 **Name:** John Doe  
-    📅 **First Contribution:** October 2023  
-    🔧 **Tools/Tech Used:** Python, GitHub, Markdown, C++, JS
+
+👤 **Name:** Jane Doe  
+📅 **First Contribution:** October 2023  
+🔧 **Tools/Tech Used:** Python, GitHub, Markdown
 
 🌟 **My Experience:**
 
