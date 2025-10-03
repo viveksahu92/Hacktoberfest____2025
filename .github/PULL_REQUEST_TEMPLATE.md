@@ -1,39 +1,41 @@
 # 📝 Pull Request Template
 
-Thank you for contributing to **Open Source Learning Stories**! 🎉  
-Please make sure your PR follows the guidelines below.
+Thank you for contributing to **Open Source Learning Stories**! 🎉
+Please ensure your PR follows the guidelines below to help us review it quickly.
 
 ---
 
 ## ✅ Checklist
 
-- [ ] I have read the [CONTRIBUTING.md](../CONTRIBUTING.md).  
-- [ ] My story is added inside the `stories/` folder.  
-- [ ] The file is named correctly: `your-name.md`.  
-- [ ] I used the proper story format (Name, Date, Tools, Experience, Advice).  
-- [ ] I did not edit or delete someone else’s story.  
-- [ ] My contribution is genuine and respectful.  
+* [ ] I have read the [CONTRIBUTING.md](../CONTRIBUTING.md) guide.
+* [ ] My story is added inside the **`stories/`** folder.
+* [ ] The file is named correctly: **`<your-github-username>.md`**. (We recommend using your GitHub username for file naming consistency).
+* [ ] I used the proper story format (Name, Date, Tools, Experience, Advice).
+* [ ] I did not edit or delete someone else’s story.
+* [ ] My contribution is genuine and respectful.
 
 ---
 
-## 📖 Description
+## 📖 Description of Changes
 
-Please provide a short description of your contribution:  
+Please provide a clear and brief description of your contribution.
 
-(e.g., “Added my open-source journey story,” “Fixed typo in example-story.md,” etc.)
-
----
-
-## 📂 Related Issue (if any)
-
-Closes # (issue number)
+(e.g., “Added my personal open-source journey story,” “Fixed a typo in the Java section of the README,” etc.)
 
 ---
 
-## 🚀 Screenshots / Preview (Optional)
+## 🔗 Related Issue (Optional)
 
-(Add a screenshot if relevant, e.g., before/after changes in docs or design)
+If this Pull Request resolves an existing issue, please link it here.
+
+* Closes # (issue number)
 
 ---
 
-💡 *Tip:* Keep your PR small and focused on one change. It makes reviewing easier. 🙌
+## 🖼️ Screenshots / Preview (Optional)
+
+If your contribution involves significant text changes or documentation fixes, you can provide a preview here.
+
+---
+
+🎉 **Tip:** Thank you again for being a part of this project! We appreciate your story!
