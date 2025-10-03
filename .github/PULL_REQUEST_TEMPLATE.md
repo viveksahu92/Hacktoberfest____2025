@@ -1,58 +1,41 @@
 # ✨ Open Source Learning Stories – Pull Request Template
 
-Thank you for contributing to **Open Source Learning Stories**! 🙏  
-Please take a minute to review this checklist so we can merge your PR smoothly. 🚀
+Thank you for contributing to **Open Source Learning Stories**! 🎉
+Please ensure your PR follows the guidelines below to help us review it quickly.
 
 ---
 
 ## ✅ Author Checklist
 
-- [ ] I have read the [CONTRIBUTING.md](../CONTRIBUTING.md) guidelines.
-- [ ] My story is placed inside the `stories/` folder.
-- [ ] The filename follows the format: `your-name.md`.
-- [ ] I used the proper story format: **Name | Date | Tools | Experience | Advice**.
-- [ ] I did not edit or remove someone else’s work.
-- [ ] My contribution is respectful, original, and adds value.
+* [ ] I have read the [CONTRIBUTING.md](../CONTRIBUTING.md) guide.
+* [ ] My story is added inside the **`stories/`** folder.
+* [ ] The file is named correctly: **`<your-github-username>.md`**. (We recommend using your GitHub username for file naming consistency).
+* [ ] I used the proper story format (Name, Date, Tools, Experience, Advice).
+* [ ] I did not edit or delete someone else’s story.
+* [ ] My contribution is genuine and respectful.
 
 ---
 
-## 🛠️ Type of Contribution
+## 📖 Description of Changes
 
-- [ ] New story
-- [ ] Fix (typo, broken link, formatting, etc.)
-- [ ] Improvement (clarity, structure, docs update)
+Please provide a clear and brief description of your contribution.
 
----
-
-## 📖 Description
-
-(Example: “Added my open-source journey story,” “Corrected typos in `example-story.md`,” “Improved story formatting for readability.”)
+(e.g., “Added my personal open-source journey story,” “Fixed a typo in the Java section of the README,” etc.)
 
 ---
 
-## 📂 Related Issue
+## 🔗 Related Issue (Optional)
 
-Closes # (issue number, if any)
+If this Pull Request resolves an existing issue, please link it here.
 
----
-
-## 💡 Self-Review Notes (Optional)
-
-(Add any context or tricky part you want reviewers to notice, e.g., “I used a table to format tools list, let me know if it’s acceptable.”)
+* Closes # (issue number)
 
 ---
 
-## 🚀 Screenshots / Preview (Optional)
+## 🖼️ Screenshots / Preview (Optional)
 
-(Add before/after screenshots or Markdown preview if helpful.)
-
----
-
-## 👀 Reviewer Checklist (for maintainers)
-
-- [ ] Story file is correctly named and placed
-- [ ] Format matches project style
-- [ ] No unrelated edits
-- [ ] Lint/formatting applied if needed
+If your contribution involves significant text changes or documentation fixes, you can provide a preview here.
 
 ---
+
+🎉 **Tip:** Thank you again for being a part of this project! We appreciate your story!
