@@ -5,7 +5,7 @@
 🔧 **Tools/Tech Used:** HTML, CSS, JavaScript, React, Node, Express, Python, Mysql, Prisma ORM, GitHub.  
 
 🌟 **My Experience:**  
-I began my open-source journey during **Hacktoberfest 2025**. At first, I wasn’t confident enough to contribute because I thought contributing meant solving complex issues. But soon I realized that open source welcomes all kinds of contributions — from fixing UI bugs to improving documentation.  
+I began my open-source journey during **Summer-WAP-Open-Source(NST-SDC) 2025**. At first, I wasn’t confident enough to contribute because I thought contributing meant solving complex issues. But soon I realized that open source welcomes all kinds of contributions — from fixing UI bugs to improving documentation.  
 
 In my first few attempts, some of my PRs didn’t get merged, but instead of stopping, I learned from every rejection. I explored how to fork a repo, clone projects, create new branches, make changes, and raise pull requests properly. Each step made me more confident and technically strong.  
 
