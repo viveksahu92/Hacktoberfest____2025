@@ -36,4 +36,6 @@ Don't Be Afraid to Ask: If you're stuck, ask a question in the project's issues 
 
 Embrace Feedback: Your first PR might not be perfect, and that's okay. View feedback as a learning opportunity, not criticism. It will make you a better developer.
 
-This one contribution has ignited a new passion, and I am excited to continue learning, collaborating, and giving back to the community.
+This one contribution has ignited a new passion, and I am excited to continue learning, collaborating, and giving back to the community #hactoberfest2025.
+
+This is my 2nd contribution.
